@@ -7,13 +7,10 @@ Olá!!!  Eu sou o Alexsander Cardoso🖐️
 
 ![Alexsander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexsanderProgrammer&show_icons=true&theme=dark)
 
-
- Tecnologias mais usadas
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderProgrammer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexsanderProgrammer&layout=compact&langs_count=7&theme=dark"/>
  
 <br/>
-Tecnologia que eu utilizo no meu dia a dia
 
 <div> 
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,6 +18,7 @@ Tecnologia que eu utilizo no meu dia a dia
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
+<br/>
 <br/>
 Fale Comigo:
 <br/>
